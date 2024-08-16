@@ -14,7 +14,7 @@ A Netflix clone built with **React**, **SCSS**, and **Material-UI**. This projec
 
 ## Setup
 1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   ```feel free to clone it by using:
+   git clone https://github.com/user/netflix-clone.git
 ## ps
 -still not finished but made a lot of progress-->final design is on its way :)
